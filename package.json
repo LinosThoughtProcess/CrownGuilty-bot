@@ -1,0 +1,11 @@
+{
+    "name": "CrownGuilty",
+    "version": "1.0.0",
+    "description": "Catching Lolis",
+    "main": "bot.js",
+    "author": "The Genuis CrownGuilty Himself",
+    "dependencies": {
+        "discord.io": "^2.5.3",
+        "winston": "^2.4.0"
+    }
+}
